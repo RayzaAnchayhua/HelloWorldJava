@@ -1,3 +1,5 @@
+/*Este é uma copia do programa5, mas como o exercicio do pdf PANCADAO não pedia um tempo exato estou tentando colocar nesse programa6 tempo exato de anos ou meses*/
+
 package programaRayza;
 
 import java.util.Scanner;
