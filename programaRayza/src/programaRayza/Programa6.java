@@ -4,7 +4,7 @@ package programaRayza;
 
 import java.util.Scanner;
 
-public class Programa5 {
+public class Programa6 {
 
 	public static void main(String[] args) {
 		
@@ -20,7 +20,7 @@ public class Programa5 {
 		System.out.println("Insira o valor da prestação: ");
 		valor = teclado.nextDouble();
 		System.out.println("Insira o valor do tempo em meses: ");
-		tempo = teclado.nextDouble();
+		tempo = teclado.nextInt();
 		
 		//Interpretação de dados
 		prestacao = valor + ( valor * taxa/100)*tempo;
