@@ -1,3 +1,3 @@
 # HelloWorldJava
 
-Treinando no Eclipse ;)
+Treinando no Eclipse e no NetBeans
