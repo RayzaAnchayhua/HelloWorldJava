@@ -1,3 +1,4 @@
 # HelloWorldJava
 
-Treinando no Eclipse e no NetBeans
+Treinando no Eclipse, no NetBeans e no IntelliJ!
+Veja meu progresso ;)
